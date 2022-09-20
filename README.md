@@ -2,3 +2,6 @@
 
 npm run dev
 
+# comando para criar uma tabela
+
+npx prisma migrate dev
